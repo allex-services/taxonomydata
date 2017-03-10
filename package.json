@@ -1,0 +1,21 @@
+{
+  "name": "allex_taxonomydataservice",
+  "version": "0.1.0",
+  "description": "TaxonomyDataService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git@gitlab.hers.rs:allex_services/taxonomydata"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "TaxonomyData"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
+
